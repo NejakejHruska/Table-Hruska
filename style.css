@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 50px;
+}
+
+.legenda {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.legenda span {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+.alkalicke-kovy{background-color: #ff8181;}
+.kovy-alkalickych-zemin{background-color: #ffc000;} 
+.prechodne-kovy{background-color: #e1c3ff;}
+.kovy{background-color: #99ccff;}
+.polokovy{background-color: #ccffff;}
+.nekovy{background-color: #aff167;}
+.halogeny{background-color: #00ccff;}
+.vzacne-plyny{background-color: #ffff00;}
+
+table.periodicka-tabulka{
+    margin: 22px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+}
+
+td.element {
+    position: relative;
+    font-size: 12px;
+}
+
+td.empty {
+    border: none;
+}
+
+td.element .cislo1 {
+    font-size: 10px;
+    position: absolute;
+    top: 28px;
+    left: 28px;
+    font-weight: bold;
+}
+
+td.element .cislo2 {
+    font-size: 10px;
+    position: absolute;
+    top: 28px;
+    left: 21px;
+    font-weight: bold;
+}
+
+td.element .cislo3{
+    font-size: 10px;
+    position: absolute;
+    top: 28px;
+    left: 25px;
+    font-weight: bold;
+}
+
+td.element .cislo4 {
+        font-size: 10px;
+        position: absolute;
+        top: 28px;
+        left: 16px;
+        font-weight: bold;
+}
+
+td.element .cislo5 {
+    font-size: 10px;
+    position: absolute;
+    top: 28px;
+    left: 14px;
+    font-weight: bold;
+}
+
+td.element .symbol {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+td.element .nazev {
+    display: block;
+    font-size: 10px;
+    margin-top: 5px;
+    font-weight: 600;
+}
+
+.alkalicke-kovy-border{background-color: #ff8181;border: none;}
+.kovy-alkalickych-zemin-border{background-color: #ffc000;border: none;}
+.prechodne-kovy-border{background-color: #e1c3ff;border: none;}
+.kovy-border{background-color: #99ccff;border: none;}
+.polokovy-border{background-color: #ccffff;border: none;}
+.nekovy-border{background-color: #aff167;border: none;}
+.halogeny-border{background-color: #00ccff;border: none;}
+.vzacne-plyny-border{background-color: #ffff00;border: none;}
