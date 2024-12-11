@@ -55,6 +55,168 @@ td.empty {
     border: none;
 }
 
+td.empty .cislo1 {
+    font-size: 10px;
+    position: absolute;
+    top: 155px;
+    left: 58px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo2 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    left: 135px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo3 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 215px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo4 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 305px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo5 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 395px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo6 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 490px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo7 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 580px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo8 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 660px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo9 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 745px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo10 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 830px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo11 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 919px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo12 {
+    font-size: 10px;
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo13 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    right: 765px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo14 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    right: 685px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo15 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    right: 603px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo16 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    right: 518px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo17 {
+    font-size: 10px;
+    position: absolute;
+    top: 235px;
+    right: 435px;
+    font-weight: bold;
+    color: gray;
+}
+
+td.empty .cislo18 {
+    font-size: 10px;
+    position: absolute;
+    top: 155px;
+    right: 352px;
+    font-weight: bold;
+    color: gray;
+}
+
 td.element .cislo1 {
     font-size: 10px;
     position: absolute;
